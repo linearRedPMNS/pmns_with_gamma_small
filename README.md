@@ -6,7 +6,7 @@ The subdirectory 'curves' contains example of Elliptic curves generated from som
 To generate a table from the paper simply enter:
 > make tableX
 
-where X is the table number. Note that you need to disable turbo boost to get accurate results. To disable turbo boost on linux with an intel processor, one can do the following:
+where X is the table number. Note that you need to disable the turbo boost to get accurate results. To disable the turbo boost on linux with an intel processor, one can do the following:
 > sudo ./disableturbo.sh
 
 The PMNS generator will display the expected syntax when executed like so:
